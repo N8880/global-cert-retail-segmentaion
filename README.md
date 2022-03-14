@@ -1,1 +1,1 @@
-# global-cert-retail-segmentaion
+# retail-segmentaion
